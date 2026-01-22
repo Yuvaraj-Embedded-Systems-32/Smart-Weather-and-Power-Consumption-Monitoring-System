@@ -87,21 +87,21 @@ Smart-Weather-and-Power-Consumption-Monitoring-System/
 └── LICENSE
 
 🔌 MQTT Topics (Example)
-#define TEMP_TOPIC         "esp32/home584/temp"
-#define HUMI_TOPIC         "esp32/home584/humi"
-#define VOLTAGE_TOPIC      "esp32/home584/voltage"
-#define CURRENT_TOPIC      "esp32/home584/current"
-#define POWER_TOPIC        "esp32/home584/power"
-#define ENERGY_TOPIC       "esp32/home584/energy"
-#define FREQUENCY_TOPIC    "esp32/home584/frequency"
-#define PF_TOPIC           "esp32/home584/pf"
-#define COST_TOPIC         "esp32/home584/cost"
-#define POWER_STATUS_TOPIC "esp32/home584/power_status"
-#define LED1_CONTROL_TOPIC "esp32/home584/led1"
-#define LED2_CONTROL_TOPIC "esp32/home584/led2"
-#define LED1_STATUS_TOPIC  "esp32/home584/led1/status"
-#define LED2_STATUS_TOPIC  "esp32/home584/led2/status"
-#define RESET_ENERGY_TOPIC "esp32/home584/reset_energy"
+ TEMP_TOPIC         "esp32/home584/temp"
+ HUMI_TOPIC         "esp32/home584/humi"
+ VOLTAGE_TOPIC      "esp32/home584/voltage"
+ CURRENT_TOPIC      "esp32/home584/current"
+ POWER_TOPIC        "esp32/home584/power"
+ ENERGY_TOPIC       "esp32/home584/energy"
+ FREQUENCY_TOPIC    "esp32/home584/frequency"
+ PF_TOPIC           "esp32/home584/pf"
+ COST_TOPIC         "esp32/home584/cost"
+ POWER_STATUS_TOPIC "esp32/home584/power_status"
+ LED1_CONTROL_TOPIC "esp32/home584/led1"
+ LED2_CONTROL_TOPIC "esp32/home584/led2"
+ LED1_STATUS_TOPIC  "esp32/home584/led1/status"
+ LED2_STATUS_TOPIC  "esp32/home584/led2/status"
+ RESET_ENERGY_TOPIC "esp32/home584/reset_energy"
 
 📊 Dashboard Preview
 
