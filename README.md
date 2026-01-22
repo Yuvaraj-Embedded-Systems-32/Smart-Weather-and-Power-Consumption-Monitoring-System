@@ -87,12 +87,21 @@ Smart-Weather-and-Power-Consumption-Monitoring-System/
 └── LICENSE
 
 🔌 MQTT Topics (Example)
-home/weather/temperature
-home/weather/humidity
-home/power/voltage
-home/power/current
-home/power/energy
-home/control/load
+#define TEMP_TOPIC         "esp32/home584/temp"
+#define HUMI_TOPIC         "esp32/home584/humi"
+#define VOLTAGE_TOPIC      "esp32/home584/voltage"
+#define CURRENT_TOPIC      "esp32/home584/current"
+#define POWER_TOPIC        "esp32/home584/power"
+#define ENERGY_TOPIC       "esp32/home584/energy"
+#define FREQUENCY_TOPIC    "esp32/home584/frequency"
+#define PF_TOPIC           "esp32/home584/pf"
+#define COST_TOPIC         "esp32/home584/cost"
+#define POWER_STATUS_TOPIC "esp32/home584/power_status"
+#define LED1_CONTROL_TOPIC "esp32/home584/led1"
+#define LED2_CONTROL_TOPIC "esp32/home584/led2"
+#define LED1_STATUS_TOPIC  "esp32/home584/led1/status"
+#define LED2_STATUS_TOPIC  "esp32/home584/led2/status"
+#define RESET_ENERGY_TOPIC "esp32/home584/reset_energy"
 
 📊 Dashboard Preview
 
