@@ -117,7 +117,7 @@ Alerts for abnormal conditions
 
 Clone the repository
 
-git clone https://github.com/your-username/Smart-Weather-and-Power-Consumption-Monitoring-System.git
+https://github.com/Yuvaraj-Embedded-Systems-32/Smart-Weather-and-Power-Consumption-Monitoring-System.git
 
 
 Open the project in Arduino IDE
